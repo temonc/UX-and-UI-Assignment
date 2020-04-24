@@ -35,7 +35,7 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 
 <img src = "Images/Calendar.png" Width = "1080">
 
-Functional vs Non-Functional 
+### Functional vs Non-Functional 
 
 Before we begin with exemplars about functional and non-functional requirements, we must understand the concept of those terms.  
 
@@ -46,7 +46,7 @@ Non-Functional - Where Functional requirements explain what the system should do
 For example, a music speaker should play sound. How? Through sound waves of n length and decibels of x frequency, allowing us to fluctuate low or high frequency of sound.
 
 Relating this to the EIT website and App, we will have two Functional requirements for Website and App, respectively. Summing up of four functional requirements.
-Functional
+### Functional
 
 Login (App)  - The App Login menu must be able to Register or Login via Username, Email or Phone number and Password. This will be connected to the EIT login database.
 
@@ -63,7 +63,7 @@ My Courses (Website) - will show you the course information, the course you are 
 My timetable (Website) -  My timetable will show classes, times and locations on campus.
 
 My Grade System (Website) - MGS will show grades overall with one click.
-Non-Functional
+### Non-Functional
 
 Login (App) - This non-functional requirement will provide user interaction via text input boxes for username/email and password. Login/Register displays success or an error message within 3 seconds or less of confirmation. This will synchronize with the MyEIT website so when Login credentials and other necessities are updated, the app will be updated.
 
