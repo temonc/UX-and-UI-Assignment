@@ -34,4 +34,4 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 - My Campus Events (Campus Events displaying upcoming course events, event dates and event times.
 - My Calendar (adding Campus events, assessment due dates, course goals, and notes.) 
 
-<img src = "Images/94312924_233324151349967_562863246621540352_n.png" Width = "200">
+<img src = "Images/94312924_233324151349967_562863246621540352_n.png" Width = "1080">
