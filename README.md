@@ -32,9 +32,13 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 - My Grades (Previous course grades done in the past and current course grades)
 - My Campus Map (Campus map that will show you where your classes are located)
 - My Campus Events (Campus Events displaying upcoming course events, event dates and event times.
-- My Calendar (adding Campus events, assessment due dates, course goals, and notes.) 
+- My Calendar (adding Campus events, assessment due dates, course goals, and notes.)
+
+**Auckland Uni Dashboard** - Shows current classes, due dates and able to see class grades through one click.
 
 <img src = "Images/Dashboard.png" Width = "1080">
+
+**Auckland Uni Calendar** - Shows timetable, classes, class time, due dates, campus events, location.
 
 <img src = "Images/Calendar.png" Width = "1080">
 
@@ -78,5 +82,3 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 **My Timetable (Website)** - The user will interact with the timetable button and this will display the timetable of the current user (Student) within a few seconds.
 
-**Auckland Uni Dashboard** - Shows current classes, due dates and able to see class grades through one click.
-**Auckland Uni Calendar** - Shows timetable, classes, class time, due dates, campus events, location.
