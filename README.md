@@ -33,3 +33,5 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 - My Campus Map (Campus map that will show you where your classes are located)
 - My Campus Events (Campus Events displaying upcoming course events, event dates and event times.
 - My Calendar (adding Campus events, assessment due dates, course goals, and notes.) 
+
+<img src = Images/
