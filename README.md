@@ -23,6 +23,9 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 
 **Note: The above process is only for first timers logging in or registering**
 
+![](Images/Stakeholders.jpg)
+
+
 4. **Home Page- once you’ve completed the above it will take you to the Home Page. Home Page features would include:**
 - My Courses (will show you the course information, the course you are doing, the subjects you are taking in that course and the tutors running the course)
 - My Timetable (Timetable showing your class times, due dates, location of classes and lecturer)
