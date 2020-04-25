@@ -56,29 +56,29 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 ### Functional
 
-**Login (App)** - The App Login menu must be able to Register or Login via Username, Email or Phone number and Password. This will be connected to the EIT login database.
+1. **Login (App)** - The App Login menu must be able to Register or Login via Username, Email or Phone number and Password. This will be connected to the EIT login database.
 
-**My Timetable (App)** - Timetable showing your class times, due dates, location of classes and lecturer on campus.
+2. **My Timetable (App)** - Timetable showing your class times, due dates, location of classes and lecturer on campus.
 
-**Campus Map (App)** -  Campus map will provide details of class location and if you have classes present that day, classes will be active with colour code.
+3. **Campus Map (App)** -  Campus map will provide details of class location and if you have classes present that day, classes will be active with colour code.
 
-**Overall Grade System (App)** - OGS will show grades from all programs and courses and will also show your current percentage of the year.
+4. **Overall Grade System (App)** - OGS will show grades from all programs and courses and will also show your current percentage of the year.
 
-**My Campus Map (Website)** - Campus map that will show the user (student) where your classes are located. 
+5. **My Campus Map (Website)** - Campus map that will show the user (student) where your classes are located. 
 
-**My Courses (Website)** - will show you the course information, the course you are doing, the subjects you are taking in that course and the tutors running the course. (Revamp!)
+6. **My Courses (Website)** - will show you the course information, the course you are doing, the subjects you are taking in that course and the tutors running the course. (Revamp!)
 
-**My timetable (Website)** -  My timetable will show classes, times and locations on campus.
+7. **My timetable (Website)** -  My timetable will show classes, times and locations on campus.
 
-**My Grade System (Website)** - MGS will show grades overall with one click.
+8. **My Grade System (Website)** - MGS will show grades overall with one click.
 
 ### Non-Functional
 
-**Login (App)** - This non-functional requirement will provide user interaction via text input boxes for username/email and password. Login/Register displays success or an error message within 3 seconds or less of confirmation. This will synchronize with the MyEIT website so when Login credentials and other necessities are updated, the app will be updated.
+1. **Login (App)** - This non-functional requirement will provide user interaction via text input boxes for username/email and password. Login/Register displays success or an error message within 3 seconds or less of confirmation. This will synchronize with the MyEIT website so when Login credentials and other necessities are updated, the app will be updated.
 
-**My Campus Map (Website)** - Campus map will show the user (student) where your classes are with a refresh rate of 60 seconds.
+2. **My Campus Map (Website)** - Campus map will show the user (student) where your classes are with a refresh rate of 60 seconds.
 
-**My Courses (Website)** - My Courses will have a Loading rate of 10 seconds after interaction
+3. **My Courses (Website)** - My Courses will have a Loading rate of 10 seconds after interaction
 
-**My Timetable (Website)** - The user will interact with the timetable button and this will display the timetable of the current user (Student) within a few seconds.
+4. **My Timetable (Website)** - The user will interact with the timetable button and this will display the timetable of the current user (Student) within a few seconds.
 
