@@ -34,14 +34,6 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 - My Campus Events (Campus Events displaying upcoming course events, event dates and event times.
 - My Calendar (adding Campus events, assessment due dates, course goals, and notes.)
 
-### Auckland Uni Dashboard - Shows current classes, due dates and able to see class grades through one click.
-
-<img src = "Images/Dashboard.png" Width = "1080">
-
-### Auckland Uni Calendar - Shows timetable, classes, class time, due dates, campus events, location.
-
-<img src = "Images/Calendar.png" Width = "1080">
-
 ### Functional vs Non-Functional 
 
 Before we begin with exemplars about functional and non-functional requirements, we must understand the concept of those terms.  
@@ -90,3 +82,14 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 8. **My Grade System (Website)** - MGS will syncrhonize with the EIT database and provide current grades to students. This will then provide DATA to the EIT App when in synchronization mode. 
 
+## Evaluation
+
+### Website Example
+
+### Auckland Uni Dashboard - Shows current classes, due dates and able to see class grades through one click.
+
+<img src = "Images/Dashboard.png" Width = "1080">
+
+### Auckland Uni Calendar - Shows timetable, classes, class time, due dates, campus events, location.
+
+<img src = "Images/Calendar.png" Width = "1080">
