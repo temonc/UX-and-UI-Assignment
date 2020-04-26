@@ -108,15 +108,13 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 #### Auckland Uni Files - Deisplays the users current files on the online database
 
-<img src = "App Images/login1.jpg"> <img src = "App Images/login2.jpg">
+<img src = "App Images/login1.jpg"> <img src = "App Images/login2.jpg"> <img src = "App Images/login.3.jpg">
 
-
-
-<img src = "App Images/login.3.jpg">
+*The login process of the Auckland Uni app is quite complex and particularily annoying.
 
 #### Aucklan Uni Dashboard - Dashboard shows you all current courses in plan
 
-<img src = "App Images/Dashboard2.jpg">
+<img src = "App Images/dashboard2.jpg">
 
 #### Auckland Uni Calander - Displays the users calender related social events
 
