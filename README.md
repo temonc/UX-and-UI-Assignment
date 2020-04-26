@@ -86,7 +86,7 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 ### Website Example
 
-### Auckland Uni Login - Displays user inout credentials
+### Auckland Uni Login - Displays user input credentials
 
 
 
