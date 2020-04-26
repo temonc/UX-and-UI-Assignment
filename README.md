@@ -118,7 +118,7 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 <img src = "App Images/login2.jpg">
 
-<img src = "App Images/login3.jpg">
+<img src = "App Images/login.3.jpg">
 
 
 
