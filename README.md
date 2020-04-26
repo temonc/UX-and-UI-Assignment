@@ -106,13 +106,7 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 ### App Example - Cognitive Walkthrough
 
-#### Auckland Uni Calander - Displays the users calender related social events
-
-<img src = "App Images/Calendar.jpg" Width = "270">
-
 #### Auckland Uni Files - Deisplays the users current files on the online database
-
-<img src = "App Images/Files.jpg">
 
 <img src = "App Images/login1.jpg">
 
@@ -120,9 +114,9 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 <img src = "App Images/login.3.jpg">
 
+#### Auckland Uni Calander - Displays the users calender related social events
 
-
-
+<img src = "App Images/Calendar.jpg" Width = "270">
 
 
 #### Auckland Uni Edit dashboard - User is give permission rights to edit or delete classes
