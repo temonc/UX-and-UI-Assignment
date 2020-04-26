@@ -86,6 +86,10 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 ### Website Example
 
+### Auckland Uni Login - Displays user inout credentials
+
+
+
 ### Auckland Uni Dashboard - Shows current classes, due dates and able to see class grades through one click.
 
 <img src = "Images/Dashboard.png" Width = "1080">
