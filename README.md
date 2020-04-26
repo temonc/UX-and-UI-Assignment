@@ -102,7 +102,7 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 <img src = "Images/Calendar.png" Width = "1080">
 
-*The user has many options to chose from, but this image shows the calendar interaction which is just clicking on the calendar icon and the calendar appears with all the associated events to the individual and also Campus events. That can be classes, class times, class locations etc... Classes on the UI will be displayed with colour code, that shows wich class is currently on going or on that day. User is able to access the next day, week, month events or class times/dates when they want given that the website allows it. In terms of user control and interation this is by far the most accessible. Also if the user is linked up via email, they will be notified immediately when events are updated, changes, removed or coming up. *
+*The user has many options to chose from, but this image shows the calendar interaction which is just clicking on the calendar icon and the calendar appears with all the associated events to the individual and also Campus events. That can be classes, class times, class locations etc... Classes on the UI will be displayed with colour code, that shows wich class is currently on going or on that day. User is able to access the next day, week, month events or class times/dates when they want given that the website allows it. In terms of user control and interation this is by far the most accessible. Also if the user is linked up via email, they will be notified immediately when events are updated, changes, removed or coming up.*
 
 ### App Example - Cognitive Walkthrough
 
