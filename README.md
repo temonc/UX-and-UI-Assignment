@@ -1,12 +1,12 @@
-# UX-and-UI-Assignment
+# Team Nihhhhhh
 
-Website and App design
+UX & UI Assignment
 
-## Team Nihhhhhh
+## Website and App design
 
-### Team Proposal         
+### Team Proposal 
 
-Team will Develop/Revamp the EIT App and Website with additional features (to the current design) that will bring a more pleasant UX interaction to students that are currently enrolled at EIT. The new design will consist of students from all campuses based around New Zealand with a more vast and simplistic approach to the current EIT App and Website improving the layout design and enhancing the current features with additional features for the EIT App and Website for students. 
+Team will Develop/Revamp the EIT App and Website with additional features (to the current design) that will bring a more pleasant UX interaction to amthat are currently enrolled at EIT. The new design will consist of students from all campuses based around New Zealand with a more vast and simplistic approach to the current EIT App and Website improving the layout design and enhancing the current features with additional features for the EIT App and Website for students. 
 
 ### List of improvements and additional features (Website/App)
 
