@@ -92,7 +92,7 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 *User searches URL then inputs student credentials and signs in. The process is a simple, easy and quick approach. The design is yet appealing and useable at that. Placing the login right in the centre allows the user to just focus on that part of the UI, instead of multi-tasking. This provides a user-friendly enviroment as it is a quick and simple processs.*
 
-*User logs in with username or Email address followed by password input.
+*User logs in with username or Email address followed by password input.*
 
 #### Auckland Uni Dashboard - Shows current classes, due dates and able to see class grades through one click.
 
@@ -100,7 +100,13 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 *Once the user has signed in, they are allocated to the dashboard which again is an easy, yet simple process. The dashboard is consistant with managing your frequent, must do and Up-to-Date classes. If a class was opened a few days ago it will show on the users most frequent class activation and also "must do" classes will be notified on the side of the dashboard with color code. This simple design allows the user to see which class is more important to focus on through colour code and frequeny rates.*
 
-Once login is successful user will be directed to the dashboard 
+Once login is successful user will be directed to the Dashboard home menu. Dashboard home menu would include menu features such as: 
+- **Account** 
+- **Dashboard**
+- **Courses**
+- **Calendar** 
+- **Inbox** 
+- **Help menu** 
 
 #### Auckland Uni Calendar - Shows timetable, classes, class time, due dates, campus events, location.
 
