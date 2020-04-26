@@ -100,4 +100,4 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 ### App Example
 
-<img src = "AppImages/Calendar.png" Width = "1080">
+<img src = "App Images/Files.jpg" Width = "1080">
