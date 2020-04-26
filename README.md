@@ -12,35 +12,35 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 
 1. **Login/ Register**
 
-- **Register** - (First Name, Last Name, Phone Number etc.)
-- **Login** - (Login with User Name, Email or Phone Number then enter Password)  
+- Register (First Name, Last Name, Phone Number etc.)
+- Login (Login with User Name, Email or Phone Number then enter Password)  
 
 2. **Campus Select feature where any student enrolled with EIT from around the country can Login and have features (Once Logged in) such as:**
 
-- **Campus Select** - (select what campus you're attending e.g Auckland, Taradale Gisborne etc.)
+- Campus Select (select what campus you're attending e.g Auckland, Taradale Gisborne etc.)
 
 3. **Once inside your selected Campus**
 
-- **Select Subject and level** - (select subject you are going to take e.g Computers, Nursing, Fashion etc. then the level of that subject e.g Level 1, Bachelors, Diploma etc.)
+- Select Subject and level (select subject you are going to take e.g Computers, Nursing, Fashion etc. then the level of that subject e.g Level 1, Bachelors, Diploma etc.)
 
 **Note: The above process is only for first timers logging in or registering**
 
 4. **Home Page- once you’ve completed the above it will take you to the Home Page. Home Page features would include:**
 
-- **My Courses** (will show you the course information, the course you are doing, the subjects you are taking in that course and the tutors running the course)
-- **My Timetable** - (Timetable showing your class times, due dates, location of classes and lecturer)
-- **My Grades** - (Previous course grades done in the past and current course grades)
-- **My Campus Map** - (Campus map that will show you where your classes are located)
-- **My Campus Events** - (Campus Events displaying upcoming course events, event dates and event times.
-- **My Calendar** - (adding Campus events, assessment due dates, course goals, and notes.)
+- My Courses (will show you the course information, the course you are doing, the subjects you are taking in that course and the tutors running the course)
+- My Timetable (Timetable showing your class times, due dates, location of classes and lecturer)
+- My Grades (Previous course grades done in the past and current course grades)
+- My Campus Map (Campus map that will show you where your classes are located)
+- My Campus Events (Campus Events displaying upcoming course events, event dates and event times.
+- My Calendar (adding Campus events, assessment due dates, course goals, and notes.)
 
 ### Functional vs Non-Functional 
 
 Before we begin with exemplars about functional and non-functional requirements, we must understand the concept of those terms.  
 
-**Functional** - In simple words, It describes what the system should do.
+Functional - In simple words, It describes what the system should do.
 
-**Non-Functional** - Where Functional requirements explain what the system should do, Non-Functional requirements describe how the system should operate. 
+Non-Functional - Where Functional requirements explain what the system should do, Non-Functional requirements describe how the system should operate. 
 
 For example, a music speaker should play sound. How? Through sound waves of n length and decibels of x frequency, allowing us to fluctuate low or high frequency of sound.
 
@@ -82,27 +82,27 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 8. **My Grade System (Website)** - MGS will syncrhonize with the EIT database and provide current grades to students. This will then provide DATA to the EIT App when in synchronization mode. 
 
-## Evaluation
+## Evaluation - Cognitive Walkthrough vs Heuristics
 
-### Website Example - Cognitive Walkthrough
+### Website Example - 
 
 #### Auckland Uni Login - Displays user input credentials
 
 <img src = "Images/login.png" Width = "1080">
 
-*User searches URL then inputs student credentials and signs in. The process is a simple, easy and quick approach.*
+*User searches URL then inputs student credentials and signs in. The process is a simple, easy and quick approach. The design is yet appealing and useable at that. Placing the login right in the centre allows the user to just focus on that part of the UI, instead of multi-tasking. This provides a user-friendly enviroment as it is a quick and simple processs.*
 
 #### Auckland Uni Dashboard - Shows current classes, due dates and able to see class grades through one click.
 
 <img src = "Images/Dashboard.png" Width = "1080">
 
-*Once the user has signed in, they are allocated to the dashboard which again is an easy, yet simple process.*
+*Once the user has signed in, they are allocated to the dashboard which again is an easy, yet simple process. The dashboard is consistant with managing your frequent, must do and Up-to-Date classes. If a class was opened a few days ago it will show on the users most frequent class activation and also "must do" classes will be notified on the side of the dashboard with color code. This simple design allows the user to see which class is more important to focus on through colour code and frequeny rates.*
 
 #### Auckland Uni Calendar - Shows timetable, classes, class time, due dates, campus events, location.
 
 <img src = "Images/Calendar.png" Width = "1080">
 
-*The user has many options to chose from, but this image shows the calendar interaction which is just clicking on the calendar icon and the calendar appears with all the associated events to the individual and also Campus events. That can be classes, class times, class locations etc...*
+*The user has many options to chose from, but this image shows the calendar interaction which is just clicking on the calendar icon and the calendar appears with all the associated events to the individual and also Campus events. That can be classes, class times, class locations etc... Classes on the UI will be displayed with colour code, that shows wich class is currently on going or on that day. User is able to access the next day, week, month events or class times/dates when they want given that the website allows it. In terms of user control and interation this is by far the most accessible. Also if the user is linked up via email, they will be notified immediately when events are updated, changes, removed or coming up. *
 
 ### App Example - Cognitive Walkthrough
 
