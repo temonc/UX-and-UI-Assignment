@@ -12,8 +12,8 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 
 1. **Login/ Register**
 
-- Register (First Name, Last Name, Phone Number etc.)
-- Login (Login with User Name, Email or Phone Number then enter Password)  
+- Register - First Name, Last Name, Phone Number etc
+- Login - Login with User Name, Email or Phone Number then enter Password  
 
 2. **Campus Select feature where any student enrolled with EIT from around the country can Login and have features (Once Logged in) such as:**
 
