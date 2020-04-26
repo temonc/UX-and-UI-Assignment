@@ -102,7 +102,7 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 #### Auckland Uni Calander - Displays the users calender related social events
 
-<img src = "App Images/Calender.jpg" Width = "270">
+<img src = "App Images/Calendar.jpg" Width = "270">
 
 #### Auckland Uni Files - Deisplays the users current files on the online database
 
