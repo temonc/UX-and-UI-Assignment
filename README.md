@@ -86,18 +86,24 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 ### Website Example
 
-### Auckland Uni Login - Displays user input credentials
+#### Auckland Uni Login - Displays user input credentials
 
 <img src = "Images/login.png" Width = "1080">
 
-### Auckland Uni Dashboard - Shows current classes, due dates and able to see class grades through one click.
+#### Auckland Uni Dashboard - Shows current classes, due dates and able to see class grades through one click.
 
 <img src = "Images/Dashboard.png" Width = "1080">
 
-### Auckland Uni Calendar - Shows timetable, classes, class time, due dates, campus events, location.
+#### Auckland Uni Calendar - Shows timetable, classes, class time, due dates, campus events, location.
 
 <img src = "Images/Calendar.png" Width = "1080">
 
 ### App Example
 
-<img src = "App Images/Files.jpg" Width = "270">
+#### Auckland Uni Calander - Displays the users calender related social events
+
+<img src = "App Images/Calender.jpg" Width = "270">
+
+#### Auckland Uni Files - Deisplays the users current files on the online database
+
+<img src = "App Images/Files.jpg">
