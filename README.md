@@ -123,7 +123,7 @@ Once login is successful user will be directed to the dashboard
 
 #### Auckland Uni Edit dashboard - User is give permission rights to edit or delete classes
 
-<img src = "App Images/EditDashboard.jpg" Width = "270"><img src = "App Images/dashboard2.jpg width = "270"><img src = "App Images/dashboard3.jpg" width = "270">
+<img src = "App Images/EditDashboard.jpg" Width = "270"><img src = "App Images/dashboard2.jpg" width = "270"><img src = "App Images/dashboard3.jpg" width = "270">
 
 
 
