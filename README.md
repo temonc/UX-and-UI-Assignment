@@ -93,3 +93,5 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 ### Auckland Uni Calendar - Shows timetable, classes, class time, due dates, campus events, location.
 
 <img src = "Images/Calendar.png" Width = "1080">
+
+### App Example
