@@ -107,3 +107,7 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 #### Auckland Uni Files - Deisplays the users current files on the online database
 
 <img src = "App Images/Files.jpg">
+
+#### Auckland Uni Edit dashboard - User is give permission rights to edit or delete classes
+
+<img src = "App Images/EditDashboard.jpg" Width = "270">
