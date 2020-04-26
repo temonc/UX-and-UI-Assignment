@@ -114,7 +114,7 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 
 
-<script src = "md-gallery.js"></script>
+<script src="md-gallery.js"></script>
 
 <img src = "App Images/EditDashboard.jpg" Width = "270">
 <img src = "App Images/Files.jpg">
