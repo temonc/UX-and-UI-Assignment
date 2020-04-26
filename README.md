@@ -76,9 +76,17 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 1. **Login (App)** - This non-functional requirement will provide user interaction via text input boxes for username/email and password. Login/Register displays success or an error message within 3 seconds or less of confirmation. This will synchronize with the MyEIT website so when Login credentials and other necessities are updated, the app will be updated.
 
-2. **My Campus Map (Website)** - Campus map will show the user (student) where your classes are with a refresh rate of 60 seconds.
+2. **My Timetable (App)** -
 
-3. **My Courses (Website)** - My Courses will have a Loading rate of 10 seconds after interaction
+3. **Campus Map (App)** -
 
-4. **My Timetable (Website)** - The user will interact with the timetable button and this will display the timetable of the current user (Student) within a few seconds.
+4. **Overall Grade System (App)** - 
+
+5. **My Campus Map (Website)** - Campus map will show the user (student) where your classes are with a refresh rate of 60 seconds.
+
+6. **My Courses (Website)** - My Courses will have a Loading rate of 10 seconds after interaction
+
+7. **My Timetable (Website)** - The user will interact with the timetable button and this will display the timetable of the current user (Student) within a few seconds.
+
+8. **My Grade System (Website)** - 
 
