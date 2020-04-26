@@ -12,27 +12,27 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 
 1. **Login/ Register**
 
-- Register - First Name, Last Name, Phone Number etc
-- Login - Login with User Name, Email or Phone Number then enter Password  
+- **Register** - First Name, Last Name, Phone Number etc
+- **Login** - Login with User Name, Email or Phone Number then enter Password  
 
 2. **Campus Select feature where any student enrolled with EIT from around the country can Login and have features (Once Logged in) such as:**
 
-- Campus Select - Select what campus you're attending e.g Auckland, Taradale Gisborne etc.
+- **Campus Select** - Select what campus you're attending e.g Auckland, Taradale Gisborne etc.
 
 3. **Once inside your selected Campus**
 
-- Select Subject and level - Select subject you are going to take e.g Computers, Nursing, Fashion etc. then the level of that subject e.g Level 1, Bachelors, Diploma etc.
+- **Select Subject and level** - Select subject you are going to take e.g Computers, Nursing, Fashion etc. then the level of that subject e.g Level 1, Bachelors, Diploma etc.
 
 **Note: The above process is only for first timers logging in or registering**
 
 4. **Home Page- once you’ve completed the above it will take you to the Home Page. Home Page features would include:**
 
-- My Courses - My Courses will show you the course information, the course you are doing, the subjects you are taking in that course and the tutors running the course
-- My Timetable - Timetable showing your class times, due dates, location of classes and lecturer
-- My Grades - Previous course grades done in the past and current course grades
-- My Campus Map - Campus map that will show you where your classes are located
-- My Campus Events - Campus Events displaying upcoming course events, event dates and event times.
-- My Calendar - Adding Campus events, assessment due dates, course goals, and notes.
+- **My Courses** - My Courses will show you the course information, the course you are doing, the subjects you are taking in that course and the tutors running the course
+- **My Timetable** - Timetable showing your class times, due dates, location of classes and lecturer
+- **My Grades** - Previous course grades done in the past and current course grades
+- **My Campus Map** - Campus map that will show you where your classes are located
+- **My Campus Events** - Campus Events displaying upcoming course events, event dates and event times.
+- **My Calendar** - Adding Campus events, assessment due dates, course goals, and notes.
 
 ### Functional vs Non-Functional 
 
@@ -92,7 +92,7 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 *User searches URL then inputs student credentials and signs in. The process is a simple, easy and quick approach. The design is yet appealing and useable at that. Placing the login right in the centre allows the user to just focus on that part of the UI, instead of multi-tasking. This provides a user-friendly enviroment as it is a quick and simple processs.*
 
-*User logs in with username or Email address followed by password input.*
+User logs in with username or Email address followed by password input. login menu also has hyperlinks 
 
 #### Auckland Uni Dashboard - Shows current classes, due dates and able to see class grades through one click.
 
@@ -113,6 +113,9 @@ Once login is successful user will be directed to the Dashboard home menu. Dashb
 <img src = "Images/Calendar.png" Width = "1080">
 
 *The user has many options to chose from, but this image shows the calendar interaction which is just clicking on the calendar icon and the calendar appears with all the associated events to the individual and also Campus events. That can be classes, class times, class locations etc... Classes on the UI will be displayed with colour code, that shows wich class is currently on going or on that day. User is able to access the next day, week, month events or class times/dates when they want given that the website allows it. In terms of user control and interation this is by far the most accessible. Also if the user is linked up via email, they will be notified immediately when events are updated, changes, removed or coming up.*
+
+**Calendar**
+User can access Calendar in the calendar menu displaying classes, class location and class times. calendar can be customized suitable for students classes in real time displaying current classes and upcoming classes via daily, wekkly or monthly.
 
 ### App Example - Cognitive Walkthrough
 
