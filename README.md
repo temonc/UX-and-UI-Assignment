@@ -17,11 +17,11 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 
 2. **Campus Select feature where any student enrolled with EIT from around the country can Login and have features (Once Logged in) such as:**
 
-- Campus Select (select what campus you're attending e.g Auckland, Taradale Gisborne etc.)
+- **Campus Select** (select what campus you're attending e.g Auckland, Taradale Gisborne etc.)
 
 3. **Once inside your selected Campus**
 
-- Select Subject and level (select subject you are going to take e.g Computers, Nursing, Fashion etc. then the level of that subject e.g Level 1, Bachelors, Diploma etc.)
+- **Select Subject and level** (select subject you are going to take e.g Computers, Nursing, Fashion etc. then the level of that subject e.g Level 1, Bachelors, Diploma etc.)
 
 **Note: The above process is only for first timers logging in or registering**
 
