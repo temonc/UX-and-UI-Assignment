@@ -111,3 +111,15 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 #### Auckland Uni Edit dashboard - User is give permission rights to edit or delete classes
 
 <img src = "App Images/EditDashboard.jpg" Width = "270">
+
+
+
+<script src = "md-gallery.js"></script>
+
+<img src = "App Images/EditDashboard.jpg" Width = "270">
+<img src = "App Images/Files.jpg">
+<img src = "App Images/Calendar.jpg" Width = "270"> 
+
+<script>
+    md_gallery();
+</script>
