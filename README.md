@@ -114,6 +114,17 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 <img src = "App Images/Files.jpg">
 
+<img src = "App Images/login1.jpg">
+
+<img src = "App Images/login2.jpg">
+
+<img src = "App Images/login3.jpg">
+
+
+
+
+
+
 #### Auckland Uni Edit dashboard - User is give permission rights to edit or delete classes
 
 <img src = "App Images/EditDashboard.jpg" Width = "270">
