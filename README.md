@@ -84,31 +84,37 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 ## Evaluation
 
-### Website Example
+### Website Example - Cognitive Walkthrough
 
 #### Auckland Uni Login - Displays user input credentials
 
 <img src = "Images/login.png" Width = "1080">
 
+*User searches URL then inputs student credentials and signs in. The process is a simple, easy and quick approach.*
+
 #### Auckland Uni Dashboard - Shows current classes, due dates and able to see class grades through one click.
 
 <img src = "Images/Dashboard.png" Width = "1080">
+
+*Once the user has signed in, they are allocated to the dashboard which again is an easy, yet simple process.*
 
 #### Auckland Uni Calendar - Shows timetable, classes, class time, due dates, campus events, location.
 
 <img src = "Images/Calendar.png" Width = "1080">
 
-### App Example
+*The user has many options to chose from, but this image shows the calendar interaction which is just clicking on the calendar icon and the calendar appears with all the associated events to the individual and also Campus events. That can be classes, class times, class locations etc...*
+
+### App Example - Cognitive Walkthrough
 
 #### Auckland Uni Calander - Displays the users calender related social events
 
 <img src = "App Images/Calendar.jpg" Width = "270">
 
-#### Auckland Uni Files - Displays the users current files on the online database
+#### Auckland Uni Files - Deisplays the users current files on the online database
 
 <img src = "App Images/Files.jpg">
 
-#### Auckland Uni Edit dashboard - User is given permission rights to edit or delete classes
+#### Auckland Uni Edit dashboard - User is give permission rights to edit or delete classes
 
 <img src = "App Images/EditDashboard.jpg" Width = "270">
 
