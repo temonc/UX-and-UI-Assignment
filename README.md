@@ -112,11 +112,9 @@ Once login is successful user will be directed to the dashboard
 
 #### Auckland Uni Files - Deisplays the users current files on the online database
 
-<img src = "App Images/login1.jpg">
+<img src = "App Images/login1.jpg"><img src = "App Images/login2.jpg"><img src = "App Images/login.3.jpg">
 
-<img src = "App Images/login2.jpg">
-
-<img src = "App Images/login.3.jpg">
+*The login process is quite complex and particularily annoying.*
 
 #### Auckland Uni Calander - Displays the users calender related social events
 
