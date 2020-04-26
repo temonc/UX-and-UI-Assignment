@@ -99,3 +99,5 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 <img src = "Images/Calendar.png" Width = "1080">
 
 ### App Example
+
+<img src = "AppImages/Calendar.png" Width = "1080">
