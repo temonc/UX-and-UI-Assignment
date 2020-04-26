@@ -12,35 +12,35 @@ Team will Develop/Revamp the EIT App and Website with additional features (to th
 
 1. **Login/ Register**
 
-- Register (First Name, Last Name, Phone Number etc.)
-- Login (Login with User Name, Email or Phone Number then enter Password)  
+- **Register** - (First Name, Last Name, Phone Number etc.)
+- **Login** - (Login with User Name, Email or Phone Number then enter Password)  
 
 2. **Campus Select feature where any student enrolled with EIT from around the country can Login and have features (Once Logged in) such as:**
 
-- **Campus Select** (select what campus you're attending e.g Auckland, Taradale Gisborne etc.)
+- **Campus Select** - (select what campus you're attending e.g Auckland, Taradale Gisborne etc.)
 
 3. **Once inside your selected Campus**
 
-- **Select Subject and level** (select subject you are going to take e.g Computers, Nursing, Fashion etc. then the level of that subject e.g Level 1, Bachelors, Diploma etc.)
+- **Select Subject and level** - (select subject you are going to take e.g Computers, Nursing, Fashion etc. then the level of that subject e.g Level 1, Bachelors, Diploma etc.)
 
 **Note: The above process is only for first timers logging in or registering**
 
 4. **Home Page- once you’ve completed the above it will take you to the Home Page. Home Page features would include:**
 
-- My Courses (will show you the course information, the course you are doing, the subjects you are taking in that course and the tutors running the course)
-- My Timetable (Timetable showing your class times, due dates, location of classes and lecturer)
-- My Grades (Previous course grades done in the past and current course grades)
-- My Campus Map (Campus map that will show you where your classes are located)
-- My Campus Events (Campus Events displaying upcoming course events, event dates and event times.
-- My Calendar (adding Campus events, assessment due dates, course goals, and notes.)
+- **My Courses** (will show you the course information, the course you are doing, the subjects you are taking in that course and the tutors running the course)
+- **My Timetable** - (Timetable showing your class times, due dates, location of classes and lecturer)
+- **My Grades** - (Previous course grades done in the past and current course grades)
+- **My Campus Map** - (Campus map that will show you where your classes are located)
+- **My Campus Events** - (Campus Events displaying upcoming course events, event dates and event times.
+- **My Calendar** - (adding Campus events, assessment due dates, course goals, and notes.)
 
 ### Functional vs Non-Functional 
 
 Before we begin with exemplars about functional and non-functional requirements, we must understand the concept of those terms.  
 
-Functional - In simple words, It describes what the system should do.
+**Functional** - In simple words, It describes what the system should do.
 
-Non-Functional - Where Functional requirements explain what the system should do, Non-Functional requirements describe how the system should operate. 
+**Non-Functional** - Where Functional requirements explain what the system should do, Non-Functional requirements describe how the system should operate. 
 
 For example, a music speaker should play sound. How? Through sound waves of n length and decibels of x frequency, allowing us to fluctuate low or high frequency of sound.
 
