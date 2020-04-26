@@ -114,12 +114,5 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 
 
-<script src="md-gallery.js"></script>
-<script>
-    md_gallery();
-</script>
-![Image1]("App Images/EditDashboard.jpg")
-![Image2]("App Images/Calendar.jpg")
-![Image3]("App Images/Files.jpg")
 
 
