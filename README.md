@@ -92,7 +92,7 @@ Relating this to the EIT website and App, we will have two Functional requiremen
 
 *User searches URL then inputs student credentials and signs in. The process is a simple, easy and quick approach. The design is yet appealing and useable at that. Placing the login right in the centre allows the user to just focus on that part of the UI, instead of multi-tasking. This provides a user-friendly enviroment as it is a quick and simple processs.*
 
-User logs in with username or Email address followed by password input. user could also login with other exisiting accounts such as facebook, Google, Linkedin, and Realme accounts. login menu also has hyperlinks for the website related to Auckland uni through sources such as:
+User logs in with username or Email address followed by password input and sign in button function once username and password has been entered. user could also login with other exisiting accounts such as facebook, Google, Linkedin, and Realme accounts. login menu also has hyperlinks for the website related to Auckland uni through sources such as:
 
 - **facebook**
 - **Instagram**
